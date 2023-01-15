@@ -1,0 +1,3 @@
+create new folder for case study and exercise
+npm init
+npm install express
